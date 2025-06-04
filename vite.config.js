@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/HBMyLove/",
+  base: "/HB-Potona/",
   plugins: [react(), tailwindcss(),],
 })
